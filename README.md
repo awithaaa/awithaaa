@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arosha Withange</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Nest js, Machine Learning**
+- 🌱 I’m currently learning **Angular, Machine Learning**
 
 - 📫 How to reach me **avwithange2006@gmail.com**
 
