@@ -10,7 +10,7 @@ I'm a passionate developer and dev enthusiast currently working on personal proj
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Nextjs-3178C6?style=for-the-badge&logo=nextjs&logoColor=white" alt="NextJs">
+  <img src="https://img.shields.io/badge/NextJs-3178C6?style=for-the-badge&logo=nextjs&logoColor=white" alt="NextJs">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Nestjs-ff33581?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs">
