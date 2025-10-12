@@ -11,8 +11,8 @@ I'm a passionate developer and dev enthusiast currently working on personal proj
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
    <img src="https://img.shields.io/badge/React-3178C6?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next-f9f9f9?style=for-the-badge&logo=next&logoColor=white" alt="Nextjs">
-   <img src="https://img.shields.io/badge/ReactNative-3178C6?style=for-the-badge&logo=reactnative&logoColor=white" alt="ReactNavtive">
+  <img src="https://img.shields.io/badge/NextJs-f9f9f9?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs">
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNavtive">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Nestjs-ff33581?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs">
